@@ -1,0 +1,5 @@
+<?php 
+
+$koneksi_database;
+
+?>
